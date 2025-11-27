@@ -41,9 +41,6 @@ O sistema simula um processo de cotação e reserva de hospedagem, permitindo ao
 
    ---
 
-   Perfeito! Aqui está o **README.md** já formatado em **Markdown** para você copiar e colar diretamente no GitHub:
-
-```markdown
 # 🏨 Sistema de Cotação e Reservas
 
 ## 🇧🇷 Português
